@@ -51,4 +51,11 @@
             @endforeach
         </tbody>
     </table>
+
+    <div>
+        <button>
+            <a href="{{ route('myadmin.index')}}">Back</a>
+        </button>
+    </div>
+
 @endsection
